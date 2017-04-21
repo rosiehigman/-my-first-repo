@@ -1,2 +1,2 @@
-# -my-first-repo
-test repo
+# Test repo for the github course
+Some files in a repo
